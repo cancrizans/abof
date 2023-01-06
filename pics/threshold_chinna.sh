@@ -1,0 +1,1 @@
+magick convert chinna.png -alpha off -channel R -separate -threshold 50% chinna_bw.png
